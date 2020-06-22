@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/raizengxdweb/static/css/main.0b301350.chunk.css",
+    "main.js": "/raizengxdweb/static/js/main.90f6f2a8.chunk.js",
+    "main.js.map": "/raizengxdweb/static/js/main.90f6f2a8.chunk.js.map",
+    "runtime-main.js": "/raizengxdweb/static/js/runtime-main.529a0bf2.js",
+    "runtime-main.js.map": "/raizengxdweb/static/js/runtime-main.529a0bf2.js.map",
+    "static/js/2.42985a5a.chunk.js": "/raizengxdweb/static/js/2.42985a5a.chunk.js",
+    "static/js/2.42985a5a.chunk.js.map": "/raizengxdweb/static/js/2.42985a5a.chunk.js.map",
+    "index.html": "/raizengxdweb/index.html",
+    "precache-manifest.2d75baac8c5e9b25e6d6def98e93bd67.js": "/raizengxdweb/precache-manifest.2d75baac8c5e9b25e6d6def98e93bd67.js",
+    "service-worker.js": "/raizengxdweb/service-worker.js",
+    "static/css/main.0b301350.chunk.css.map": "/raizengxdweb/static/css/main.0b301350.chunk.css.map",
+    "static/js/2.42985a5a.chunk.js.LICENSE.txt": "/raizengxdweb/static/js/2.42985a5a.chunk.js.LICENSE.txt",
+    "static/media/Slide1.PNG": "/raizengxdweb/static/media/Slide1.b180e8b8.PNG",
+    "static/media/image-2.jpg": "/raizengxdweb/static/media/image-2.9dd72e45.jpg",
+    "static/media/logo-cca.png": "/raizengxdweb/static/media/logo-cca.17b969f2.png",
+    "static/media/logo-fc.jpg": "/raizengxdweb/static/media/logo-fc.ae91b723.jpg",
+    "static/media/logo-yt.png": "/raizengxdweb/static/media/logo-yt.01435065.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.529a0bf2.js",
+    "static/js/2.42985a5a.chunk.js",
+    "static/css/main.0b301350.chunk.css",
+    "static/js/main.90f6f2a8.chunk.js"
+  ]
+}
