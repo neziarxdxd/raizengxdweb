@@ -20,7 +20,7 @@ function MainPage() {
       typingDelay="6000ms" cursor="_"
     />
 
-    // test
+  
               </span>
           </div>
           </div> 
