@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f52a85f17782e21abeb7bdfe2d1155c",
+    "revision": "df3419581cc896eda95c773500a7f215",
     "url": "/raizengxdweb/index.html"
   },
   {
-    "revision": "dd7a10186ead6d76ff4a",
-    "url": "/raizengxdweb/static/css/main.0b301350.chunk.css"
+    "revision": "1f77ce2d7fbb41e26d80",
+    "url": "/raizengxdweb/static/css/main.08286cf5.chunk.css"
   },
   {
-    "revision": "f5f6970ac06bb910f383",
-    "url": "/raizengxdweb/static/js/2.42985a5a.chunk.js"
+    "revision": "38dd5866427674758aa0",
+    "url": "/raizengxdweb/static/js/2.4512d179.chunk.js"
   },
   {
     "revision": "d36ba6caeaf42b0af54f7780c08f78f4",
-    "url": "/raizengxdweb/static/js/2.42985a5a.chunk.js.LICENSE.txt"
+    "url": "/raizengxdweb/static/js/2.4512d179.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd7a10186ead6d76ff4a",
-    "url": "/raizengxdweb/static/js/main.90f6f2a8.chunk.js"
+    "revision": "1f77ce2d7fbb41e26d80",
+    "url": "/raizengxdweb/static/js/main.cda5e5e5.chunk.js"
   },
   {
     "revision": "57fe937ee4bbed634527",
@@ -32,8 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raizengxdweb/static/media/Slide1.b180e8b8.PNG"
   },
   {
-    "revision": "9dd72e4567ff514708ebe65e8e0644ca",
-    "url": "/raizengxdweb/static/media/image-2.9dd72e45.jpg"
+    "revision": "d48fab0bb5d1fa5592a22f3ec2240316",
+    "url": "/raizengxdweb/static/media/Slide1.d48fab0b.PNG"
+  },
+  {
+    "revision": "be9dd2a89c2e9329d801ded40630cca5",
+    "url": "/raizengxdweb/static/media/Slide2.be9dd2a8.PNG"
+  },
+  {
+    "revision": "0c1460f47f4e12055286273500f7f865",
+    "url": "/raizengxdweb/static/media/Slide3.0c1460f4.PNG"
+  },
+  {
+    "revision": "6593169d3375f05ffcee82d15a38baa7",
+    "url": "/raizengxdweb/static/media/Slide4.6593169d.PNG"
   },
   {
     "revision": "17b969f2f6806c67d5c3a3946751c694",
