@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/raizengxdweb/static/css/main.08286cf5.chunk.css",
-    "main.js": "/raizengxdweb/static/js/main.cda5e5e5.chunk.js",
-    "main.js.map": "/raizengxdweb/static/js/main.cda5e5e5.chunk.js.map",
+    "main.js": "/raizengxdweb/static/js/main.fceb1146.chunk.js",
+    "main.js.map": "/raizengxdweb/static/js/main.fceb1146.chunk.js.map",
     "runtime-main.js": "/raizengxdweb/static/js/runtime-main.529a0bf2.js",
     "runtime-main.js.map": "/raizengxdweb/static/js/runtime-main.529a0bf2.js.map",
     "static/js/2.4512d179.chunk.js": "/raizengxdweb/static/js/2.4512d179.chunk.js",
     "static/js/2.4512d179.chunk.js.map": "/raizengxdweb/static/js/2.4512d179.chunk.js.map",
     "index.html": "/raizengxdweb/index.html",
-    "precache-manifest.1b6f23fc608e3ec5a61b0c76360eff27.js": "/raizengxdweb/precache-manifest.1b6f23fc608e3ec5a61b0c76360eff27.js",
+    "precache-manifest.0120609b2a3ecf6712f92bf22381d484.js": "/raizengxdweb/precache-manifest.0120609b2a3ecf6712f92bf22381d484.js",
     "service-worker.js": "/raizengxdweb/service-worker.js",
     "static/css/main.08286cf5.chunk.css.map": "/raizengxdweb/static/css/main.08286cf5.chunk.css.map",
     "static/js/2.4512d179.chunk.js.LICENSE.txt": "/raizengxdweb/static/js/2.4512d179.chunk.js.LICENSE.txt",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.529a0bf2.js",
     "static/js/2.4512d179.chunk.js",
     "static/css/main.08286cf5.chunk.css",
-    "static/js/main.cda5e5e5.chunk.js"
+    "static/js/main.fceb1146.chunk.js"
   ]
 }

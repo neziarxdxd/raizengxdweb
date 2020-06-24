@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df3419581cc896eda95c773500a7f215",
+    "revision": "403223b52b65aa1bda5a424478506720",
     "url": "/raizengxdweb/index.html"
   },
   {
-    "revision": "1f77ce2d7fbb41e26d80",
+    "revision": "2942c6cc8a1f52631792",
     "url": "/raizengxdweb/static/css/main.08286cf5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/raizengxdweb/static/js/2.4512d179.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f77ce2d7fbb41e26d80",
-    "url": "/raizengxdweb/static/js/main.cda5e5e5.chunk.js"
+    "revision": "2942c6cc8a1f52631792",
+    "url": "/raizengxdweb/static/js/main.fceb1146.chunk.js"
   },
   {
     "revision": "57fe937ee4bbed634527",
